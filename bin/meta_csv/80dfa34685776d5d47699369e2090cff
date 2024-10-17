@@ -1,0 +1,6 @@
+org_id,warehouse,bin_id,storage_type,storage_sec
+toshif,101,1,abc,xyz
+toshif,102,1,abc,xyz
+toshif,102,2,abc,xyz
+toshif,102,3,abc,xyz
+toshif,103,4,abc,xyz

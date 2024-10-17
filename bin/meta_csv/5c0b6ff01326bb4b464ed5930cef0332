@@ -1,0 +1,6 @@
+org_id,warehouse,bin_id,storage_type,storage_sec
+stellium,101,001,abc,xyz
+stellium,102,001,abc,xyz
+stellium,102,002,abc,xyz
+stellium,102,003,abc,xyz
+stellium,103,004,abc,xyz
